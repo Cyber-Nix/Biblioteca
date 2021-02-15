@@ -104,3 +104,12 @@ C:\Users\Rosa Maria\Desktop\Nova pasta (4)\Netcore3.1\Netcore3.1\Biblioteca\obj\
 C:\Users\Rosa Maria\Desktop\Nova pasta (4)\Netcore3.1\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\Users\Rosa Maria\Desktop\Nova pasta (4)\Netcore3.1\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 C:\Users\Rosa Maria\Desktop\Nova pasta (4)\Netcore3.1\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\Rosa Maria\Desktop\Netcore3.1\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Rosa Maria\Desktop\Netcore3.1\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Rosa Maria\Desktop\Netcore3.1\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+C:\Users\Rosa Maria\Desktop\Netcore3.1\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Rosa Maria\Desktop\Netcore3.1\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rosa Maria\Desktop\Netcore3.1\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+C:\Users\Rosa Maria\Desktop\Netcore3.1\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+C:\Users\Rosa Maria\Desktop\Netcore3.1\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\Rosa Maria\Desktop\Netcore3.1\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
