@@ -68,6 +68,29 @@ namespace Biblioteca.Migrations
                     b.ToTable("Livros");
                 });
 
+            modelBuilder.Entity("Biblioteca.Models.Usuario", b =>
+                {
+                    b.Property<int>("id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    b.Property<string>("login")
+                        .HasColumnType("longtext CHARACTER SET utf8mb4");
+
+                    b.Property<string>("nome")
+                        .HasColumnType("longtext CHARACTER SET utf8mb4");
+
+                    b.Property<string>("senha")
+                        .HasColumnType("longtext CHARACTER SET utf8mb4");
+
+                    b.Property<int>("tipo")
+                        .HasColumnType("int");
+
+                    b.HasKey("id");
+
+                    b.ToTable("Usuarios");
+                });
+
             modelBuilder.Entity("Biblioteca.Models.Emprestimo", b =>
                 {
                     b.HasOne("Biblioteca.Models.Livro", "Livro")

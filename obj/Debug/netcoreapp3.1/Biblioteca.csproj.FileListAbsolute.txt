@@ -113,3 +113,9 @@ C:\Users\Rosa Maria\Desktop\Netcore3.1\Netcore3.1\Biblioteca\obj\Debug\netcoreap
 C:\Users\Rosa Maria\Desktop\Netcore3.1\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
 C:\Users\Rosa Maria\Desktop\Netcore3.1\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\Users\Rosa Maria\Desktop\Netcore3.1\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\Rosa Maria\Desktop\Nova pasta (4)\Netcore3.1\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\cadastroRealizado.cshtml.g.cs
+C:\Users\Rosa Maria\Desktop\Nova pasta (4)\Netcore3.1\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\editarUsuario.cshtml.g.cs
+C:\Users\Rosa Maria\Desktop\Nova pasta (4)\Netcore3.1\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ExcluirUsuario.cshtml.g.cs
+C:\Users\Rosa Maria\Desktop\Nova pasta (4)\Netcore3.1\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\NeedAdmin.cshtml.g.cs
+C:\Users\Rosa Maria\Desktop\Nova pasta (4)\Netcore3.1\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\RegistrarUsuarios.cshtml.g.cs
+C:\Users\Rosa Maria\Desktop\Nova pasta (4)\Netcore3.1\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ListaDeUsuarios.cshtml.g.cs
